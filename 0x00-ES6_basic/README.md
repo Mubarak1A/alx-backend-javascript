@@ -38,10 +38,10 @@ Install NodeJS 12.11.x
 in your project directory, install Jest, Babel and ESList by using the supplied package.json and run npm install
 
 # Tasks
-0-constants.js - Modify: function taskFirst to instantiate variables using const and function taskNext to instantiate variables using let
+<strong>0-constants.js</strong> - Modify: function taskFirst to instantiate variables using const and function taskNext to instantiate variables using let
 
-1-block-scoped.js - Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
+<strong>1-block-scoped.js</strong> - Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
 
-2-arrow.js - Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
+<strong>2-arrow.js</strong> - Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
 
-3-default-parameter.js - Condense the internals of the following function to 1 line - without changing the name of each function/variable.
+<strong>3-default-parameter.js</strong> - Condense the internals of the following function to 1 line - without changing the name of each function/variable.
