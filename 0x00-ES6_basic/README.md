@@ -36,3 +36,6 @@ Install NodeJS 12.11.x
         6.11.3
 # Install Jest, Babel, and ESLint
 in your project directory, install Jest, Babel and ESList by using the supplied package.json and run npm install
+
+# Tasks
+0-constants.js - Modify: function taskFirst to instantiate variables using const and function taskNext to instantiate variables using let
