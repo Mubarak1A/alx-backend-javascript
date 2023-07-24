@@ -2,10 +2,10 @@
 # Back-end
 # Specialization
 - Modern JavaScript
-    ES6
-    TypeScript
-    Node JS basic
-    Unittests
+  ES6
+  TypeScript
+  Node JS basic
+  Unittests
 - Python
     Variable annotations
     Async
