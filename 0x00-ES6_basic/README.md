@@ -45,3 +45,5 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 <strong>2-arrow.js</strong> - Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
 
 <strong>3-default-parameter.js</strong> - Condense the internals of the following function to 1 line - without changing the name of each function/variable.
+
+<strong>4-rest-parameter.js</strong> - Modify the following function to return the number of arguments passed to it using the rest parameter syntax
