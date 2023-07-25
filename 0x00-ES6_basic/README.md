@@ -58,4 +58,6 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 
 <strong>9-getFullBudget.js</strong> - Rewrite getFullBudgetObject to use ES6 method properties in the fullBudget object.
 
+<strong>10-loops.js</strong> - Rewrite the function appendToEachArrayValue to use ES6’s for...of operator. And don’t forget that var is not ES6-friendly.
+
 
