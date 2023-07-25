@@ -54,4 +54,8 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 
 <strong>7-getBudgetObject.js</strong> - Notice how the keys and the variable names are the same? Modify the following function’s budget object to simply use the keyname instead.
 
-<strong>8-getBudgetCurrentYear.js</strong> - Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
+<strong>8-getBudgetCurrentYear.js</strong> - Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object.
+
+<strong>9-getFullBudget.js</strong> - Rewrite getFullBudgetObject to use ES6 method properties in the fullBudget object.
+
+
