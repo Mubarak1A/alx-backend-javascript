@@ -60,4 +60,4 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 
 <strong>10-loops.js</strong> - Rewrite the function appendToEachArrayValue to use ES6’s for...of operator. And don’t forget that var is not ES6-friendly.
 
-
+<strong>8-getBudgetCurrentYear.js</strong> - Write a function named createEmployeesObject that will receive two arguments: departmentName (String), employees (Array of Strings). The function should return an object.
