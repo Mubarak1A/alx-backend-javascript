@@ -53,3 +53,5 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 <strong>6-string-interpolation.js</strong> - Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
 
 <strong>7-getBudgetObject.js</strong> - Notice how the keys and the variable names are the same? Modify the following function’s budget object to simply use the keyname instead.
+
+<strong>8-getBudgetCurrentYear.js</strong> - Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
