@@ -63,3 +63,7 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 <strong>8-getBudgetCurrentYear.js</strong> - Write a function named createEmployeesObject that will receive two arguments: departmentName (String), employees (Array of Strings). The function should return an object.
 
 <strong>12-createReportObject.js</strong> - Write a function named createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject. createReportObject should return an object containing the key allEmployees and a method property called getNumberOfDepartments. allEmployees is a key that maps to an object containing the department name and a list of all the employees in that department. If you’re having trouble, use the spread syntax. The method property receives employeesList and returns the number of departments. I would suggest suggest thinking back to the ES6 method property syntax.
+
+<strong>100-createIteratorObject.js</strong> - Write a function named createIteratorObject, that will take into argument a report Object created with the previous function createReportObject. This function will return an iterator to go through every employee in every department.
+
+<strong>101-iterateThroughObject.js</strong> - Finally, write a function named iterateThroughObject. The function’s parameter reportWithIterator is the return value from createIteratorObject. It should return every employee name in a string, separated by |
