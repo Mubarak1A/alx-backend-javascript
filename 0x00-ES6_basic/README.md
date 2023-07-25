@@ -47,3 +47,7 @@ in your project directory, install Jest, Babel and ESList by using the supplied 
 <strong>3-default-parameter.js</strong> - Condense the internals of the following function to 1 line - without changing the name of each function/variable.
 
 <strong>4-rest-parameter.js</strong> - Modify the following function to return the number of arguments passed to it using the rest parameter syntax
+
+<strong>5-spread-operator.js</strong> - Using spread syntax, concatenate 2 arrays and each character of a string by modifying the function below. Your function body should be one line long.
+
+<strong>6-string-interpolation.js</strong> - Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
