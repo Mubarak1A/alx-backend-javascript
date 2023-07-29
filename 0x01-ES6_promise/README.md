@@ -41,7 +41,17 @@ in your project directory:
 # Tasks
 <strong>0-promise.js</strong> - Return a Promise using this prototype function getResponseFromAPI()
 
-<strong>1-block-scoped.js</strong> - Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
+<strong>1-promise.js</strong> - Using the prototype below, return a promise. The parameter is a boolean.
+
+        getFullResponseFromAPI(success)
+        When the argument is:
+
+        true
+                resolve the promise by passing an object with 2 attributes:
+                        status: 200
+                        body: 'Success'
+        false
+                reject the promise with an error object with the message "The fake API is not working currently"
 
 <strong>2-arrow.js</strong> - Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
 
