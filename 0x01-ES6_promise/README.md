@@ -39,7 +39,7 @@ in your project directory:
         - Install ESLint using: npm install --save-dev eslint
 
 # Tasks
-<strong>0-constants.js</strong> - Modify: function taskFirst to instantiate variables using const and function taskNext to instantiate variables using let
+<strong>0-promise.js</strong> - Return a Promise using this prototype function getResponseFromAPI()
 
 <strong>1-block-scoped.js</strong> - Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
 
