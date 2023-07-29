@@ -1,7 +1,3 @@
 function getResponseFromAPI(){
-    return new Promise((resolve, reject) => {
-        setTimeout(() => {
-            resolve("Fulfilled")
-        }, 100);
-    })
+    return new Promise((resolve, reject) => {})
 }
