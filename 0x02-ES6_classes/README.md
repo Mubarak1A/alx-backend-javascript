@@ -1,13 +1,12 @@
-# 0x01-ES6_promise
+# 0x02-ES6_classes
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-    Promises (how, why, and what)
-    How to use the then, resolve, catch methods
-    How to use every method of the Promise object
-    Throw / Try
-    The await operator
-    How to use an async function
+    How to define a Class
+    How to add methods to a class
+    Why and how to add a static method to a class
+    How to extend a class from another
+    Metaprogramming and symbols
 # Requirements
 # General
     All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
@@ -17,7 +16,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     Your code should use the js extension
     Your code will be tested using Jest and the command npm run test
     Your code will be verified against lint using ESLint
-    All of your functions must be exported
+    Your code needs to pass all the tests and lint. You can verify the entire project running npm run full-test
 # Setup
 Install NodeJS 12.11.x
 (in your home directory):
