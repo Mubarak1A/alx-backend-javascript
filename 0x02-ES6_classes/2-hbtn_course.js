@@ -5,7 +5,7 @@
  * Implement a getter and setter for each attribute.
  */
 
-class HolbertonCourse {
+export default class HolbertonCourse {
     constructor(name, length, students) {
       this.name = name;
       this.length = length;
@@ -54,6 +54,4 @@ class HolbertonCourse {
     get students() {
       return this._students;
     }
-  }
-  
-  export default HolbertonCourse;
+}
