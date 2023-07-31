@@ -8,7 +8,7 @@
  * throw an error with the message Class extending Building must override evacuationWarningMessage
  */
 
-class Building {
+export default class Building {
     constructor(sqft) {
       if (this.constructor !== Building) {
         if (typeof this.evacuationWarningMessage !== 'function') {
